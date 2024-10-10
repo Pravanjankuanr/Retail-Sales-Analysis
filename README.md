@@ -18,13 +18,15 @@ Exploring, cleaning, and analyzing retail sales data using SQL. Suitable for dat
 
 ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `p1_retail_db`.
-- **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
+- **Database Creation**: The project starts by creating a database named `Retail_Sales_DB`.
+- **Table Creation**: A table named `sales` is created to store the retail sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
-CREATE DATABASE p1_retail_db;
+CREATE DATABASE Retail_Sales_DB;
 
-CREATE TABLE retail_sales
+use Retail_Sales_DB;
+
+CREATE TABLE sales
 (
     transactions_id INT PRIMARY KEY,
     sale_date DATE,	
