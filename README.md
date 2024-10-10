@@ -5,7 +5,7 @@
 **Project Title**: Retail Sales Analysis  
 **Database**: `Retail_Sales_DB`
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
+Exploring, cleaning, and analyzing retail sales data using SQL. Suitable for data analysis beginners, this project demonstrates database setup, exploratory data analysis, and data cleaning, and answers business questions using SQL queries.
 
 ## Objectives
 
