@@ -24,7 +24,7 @@ Exploring, cleaning, and analyzing retail sales data using SQL. Suitable for dat
 ```sql
 CREATE DATABASE Retail_Sales_DB;
 
-use Retail_Sales_DB;
+USE Retail_Sales_DB;
 
 CREATE TABLE sales
 (
@@ -69,7 +69,7 @@ WHERE
 
 ### 3. Data Analysis & Findings
 
-The following SQL queries were developed to answer specific business questions:
+The following SQL queries were designed to address key business intelligence needs.
 
 1. **Write a SQL query to retrieve all columns for sales made on '2022-11-05**:
 ```sql
